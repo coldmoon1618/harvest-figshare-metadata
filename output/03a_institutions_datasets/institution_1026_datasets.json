@@ -1,0 +1,50 @@
+[
+  {
+    "id": 27569592,
+    "title": "Ecofootprint_export_diversifacation_data.dta",
+    "doi": "10.58014/aubh.27569592.v1",
+    "handle": "",
+    "url": "https://api.figshare.com/v2/articles/27569592",
+    "published_date": "2024-11-03T06:30:05Z",
+    "thumb": "",
+    "defined_type": 3,
+    "defined_type_name": "dataset",
+    "group_id": 47142,
+    "url_private_api": "https://api.figshare.com/v2/account/articles/27569592",
+    "url_public_api": "https://api.figshare.com/v2/articles/27569592",
+    "url_private_html": "https://figshare.com/account/articles/27569592",
+    "url_public_html": "https://aubh.figshare.com/articles/dataset/Ecofootprint_export_diversifacation_data_dta/27569592",
+    "timeline": {
+      "posted": "2024-11-03T06:30:05",
+      "firstOnline": "2024-11-03"
+    },
+    "resource_title": "",
+    "resource_doi": "",
+    "created_date": "2024-11-03T06:30:05Z",
+    "modified_date": "2024-11-03T06:30:52Z"
+  },
+  {
+    "id": 28877489,
+    "title": "Environmental and Economic Comparative Analysis of Green Roofs: The Case of Singapore and Bahrain",
+    "doi": "10.58014/aubh.28877489.v1",
+    "handle": "",
+    "url": "https://api.figshare.com/v2/articles/28877489",
+    "published_date": "2025-04-27T13:51:17Z",
+    "thumb": "https://s3-eu-west-1.amazonaws.com/figshare-production-eu-aubh-previews9363-eu-west-1/54000341/thumb.png",
+    "defined_type": 3,
+    "defined_type_name": "dataset",
+    "group_id": 47142,
+    "url_private_api": "https://api.figshare.com/v2/account/articles/28877489",
+    "url_public_api": "https://api.figshare.com/v2/articles/28877489",
+    "url_private_html": "https://figshare.com/account/articles/28877489",
+    "url_public_html": "https://aubh.figshare.com/articles/dataset/Environmental_and_Economic_Comparative_Analysis_of_Green_Roofs_The_Case_of_Singapore_and_Bahrain/28877489",
+    "timeline": {
+      "posted": "2025-04-27T13:51:17",
+      "firstOnline": "2025-04-27"
+    },
+    "resource_title": "",
+    "resource_doi": "",
+    "created_date": "2025-04-27T13:51:17Z",
+    "modified_date": "2025-04-27T13:51:24Z"
+  }
+]

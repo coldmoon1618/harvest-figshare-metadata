@@ -1,0 +1,49 @@
+[
+  {
+    "id": 28377044,
+    "title": "Assemblies used in \"Phylodynamic analysis of a prolonged meningococcal epidemic reveals multiple introductions and pre-epidemic expansion\"",
+    "doi": "10.26091/ESRNZ.28377044.v1",
+    "handle": "",
+    "url": "https://api.figshare.com/v2/articles/28377044",
+    "published_date": "2025-02-10T20:29:04Z",
+    "thumb": "",
+    "defined_type": 3,
+    "defined_type_name": "dataset",
+    "group_id": 27341,
+    "url_private_api": "https://api.figshare.com/v2/account/articles/28377044",
+    "url_public_api": "https://api.figshare.com/v2/articles/28377044",
+    "url_private_html": "https://figshare.com/account/articles/28377044",
+    "url_public_html": "https://research.esr.cri.nz/articles/dataset/Assemblies_used_in_Phylodynamic_analysis_of_a_prolonged_meningococcal_epidemic_reveals_multiple_introductions_and_pre-epidemic_expansion_/28377044",
+    "timeline": {
+      "posted": "2025-02-10T20:29:04",
+      "firstOnline": "2025-02-10"
+    },
+    "resource_title": "",
+    "resource_doi": "",
+    "created_date": "2025-02-10T20:29:04Z",
+    "modified_date": "2025-02-10T20:29:04Z"
+  },
+  {
+    "id": 32118304,
+    "title": "Projected expansion of potential seawater intrusion into coastal aquifers of Aotearoa New Zealand to 2150 (Supplementary Data)",
+    "doi": "10.26091/ESRNZ.32118304.v1",
+    "handle": "",
+    "url": "https://api.figshare.com/v2/articles/32118304",
+    "published_date": "2026-05-04T11:19:45Z",
+    "thumb": "",
+    "defined_type": 3,
+    "defined_type_name": "dataset",
+    "group_id": 20427,
+    "url_private_api": "https://api.figshare.com/v2/account/articles/32118304",
+    "url_public_api": "https://api.figshare.com/v2/articles/32118304",
+    "url_private_html": "https://figshare.com/account/articles/32118304",
+    "url_public_html": "https://research.esr.cri.nz/articles/dataset/Projected_expansion_of_potential_seawater_intrusion_into_coastal_aquifers_of_Aotearoa_New_Zealand_to_2150_Supplementary_Data_/32118304",
+    "timeline": {
+      "posted": "2026-05-04T11:19:45"
+    },
+    "resource_title": "",
+    "resource_doi": "",
+    "created_date": "2026-05-04T11:19:45Z",
+    "modified_date": "2026-05-05T23:18:54Z"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "id": 28219943,
+    "title": "Social Connection in Immigrants Review - Reviewed Article Citations",
+    "doi": "10.60696/uc.28219943.v1",
+    "handle": "",
+    "url": "https://api.figshare.com/v2/articles/28219943",
+    "published_date": "2025-10-30T19:55:40Z",
+    "thumb": "",
+    "defined_type": 3,
+    "defined_type_name": "dataset",
+    "group_id": 56197,
+    "url_private_api": "https://api.figshare.com/v2/account/articles/28219943",
+    "url_public_api": "https://api.figshare.com/v2/articles/28219943",
+    "url_private_html": "https://figshare.com/account/articles/28219943",
+    "url_public_html": "https://uc.figshare.com/articles/dataset/Social_Connection_in_Immigrants_Review_-_Reviewed_Article_Citations/28219943",
+    "timeline": {
+      "posted": "2025-10-30T19:55:40",
+      "firstOnline": "2025-01-23"
+    },
+    "resource_title": "",
+    "resource_doi": "",
+    "created_date": "2025-10-30T19:55:40Z",
+    "modified_date": "2025-10-30T19:55:41Z"
+  },
+  {
+    "id": 33190863,
+    "title": "Raw fiber photometry data for examining sex-specific differences in endocannabinoid regulation of cocaine-evoked dopamine in the medial nucleus accumbens shell",
+    "doi": "10.60696/uc.33190863.v1",
+    "handle": "",
+    "url": "https://api.figshare.com/v2/articles/33190863",
+    "published_date": "2026-08-31T15:34:43Z",
+    "thumb": "",
+    "defined_type": 3,
+    "defined_type_name": "dataset",
+    "group_id": 56197,
+    "url_private_api": "https://api.figshare.com/v2/account/articles/33190863",
+    "url_public_api": "https://api.figshare.com/v2/articles/33190863",
+    "url_private_html": "https://figshare.com/account/articles/33190863",
+    "url_public_html": "https://uc.figshare.com/articles/dataset/Raw_fiber_photometry_data_for_examining_sex-specific_differences_in_endocannabinoid_regulation_of_cocaine-evoked_dopamine_in_the_medial_nucleus_accumbens_shell/33190863",
+    "timeline": {
+      "posted": "2026-08-31T15:34:43"
+    },
+    "resource_title": "",
+    "resource_doi": "",
+    "created_date": "2026-08-31T15:34:43Z",
+    "modified_date": "2026-09-03T16:59:52Z"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 17734442,
+    "title": "Citation prediction of Russian journals articles in psychology in WoS by articles parameters and eLibrary and PsyJournals altmetrics",
+    "doi": "10.25449/ruspsydata.17734442.v1",
+    "handle": "",
+    "url": "https://api.figshare.com/v2/articles/17734442",
+    "published_date": "2022-01-03T15:09:28Z",
+    "thumb": "",
+    "defined_type": 3,
+    "defined_type_name": "dataset",
+    "group_id": 36045,
+    "url_private_api": "https://api.figshare.com/v2/account/articles/17734442",
+    "url_public_api": "https://api.figshare.com/v2/articles/17734442",
+    "url_private_html": "https://figshare.com/account/articles/17734442",
+    "url_public_html": "https://ruspsydata.figshare.com/articles/dataset/Citation_prediction_of_Russian_journals_articles_in_psychology_in_WoS_by_articles_parameters_and_eLibrary_and_PsyJournals_altmetrics/17734442",
+    "timeline": {
+      "posted": "2022-01-03T15:09:28",
+      "firstOnline": "2022-01-03"
+    },
+    "resource_title": "",
+    "resource_doi": "",
+    "created_date": "2022-01-03T15:09:28Z",
+    "modified_date": "2023-06-01T15:41:34Z"
+  },
+  {
+    "id": 19064786,
+    "title": "Readers' Search Strategies for Scientific Publications, 2021",
+    "doi": "10.25449/ruspsydata.19064786.v1",
+    "handle": "",
+    "url": "https://api.figshare.com/v2/articles/19064786",
+    "published_date": "2022-01-31T07:03:32Z",
+    "thumb": "https://s3-eu-west-1.amazonaws.com/ppreviews-msupe-1956369588/33918287/thumb.png",
+    "defined_type": 3,
+    "defined_type_name": "dataset",
+    "group_id": 35988,
+    "url_private_api": "https://api.figshare.com/v2/account/articles/19064786",
+    "url_public_api": "https://api.figshare.com/v2/articles/19064786",
+    "url_private_html": "https://figshare.com/account/articles/19064786",
+    "url_public_html": "https://ruspsydata.figshare.com/articles/dataset/Readers_Search_Strategies_for_Scientific_Publications_2021/19064786",
+    "timeline": {
+      "posted": "2022-01-31T07:03:32",
+      "firstOnline": "2022-01-31"
+    },
+    "resource_title": "",
+    "resource_doi": "",
+    "created_date": "2022-01-31T07:03:32Z",
+    "modified_date": "2022-01-31T07:03:34Z"
+  },
+  {
+    "id": 19107995,
+    "title": "Evaluation of DEE by University Students\u2019 Depending on Their Personal Characteristics",
+    "doi": "10.25449/ruspsydata.19107995.v1",
+    "handle": "",
+    "url": "https://api.figshare.com/v2/articles/19107995",
+    "published_date": "2022-02-14T03:05:41Z",
+    "thumb": "",
+    "defined_type": 3,
+    "defined_type_name": "dataset",
+    "group_id": 36045,
+    "url_private_api": "https://api.figshare.com/v2/account/articles/19107995",
+    "url_public_api": "https://api.figshare.com/v2/articles/19107995",
+    "url_private_html": "https://figshare.com/account/articles/19107995",
+    "url_public_html": "https://ruspsydata.figshare.com/articles/dataset/Evaluation_of_DEE_by_University_Students_Depending_on_Their_Personal_Characteristics/19107995",
+    "timeline": {
+      "posted": "2022-02-14T03:05:41",
+      "firstOnline": "2022-02-14"
+    },
+    "resource_title": "",
+    "resource_doi": "",
+    "created_date": "2022-02-14T03:05:42Z",
+    "modified_date": "2022-08-14T00:10:05Z"
+  }
+]

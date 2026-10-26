@@ -1,0 +1,112 @@
+institution_id,InstitutionName,CustomDomain,example_article
+2,Loughborough University,repository.lboro.ac.uk,34022265
+8,The University of Melbourne,figshare.unimelb.edu.au,31638265
+11,Brunel University London,brunel.figshare.com,34015116
+18,Stockholm University,su.figshare.com,33884290
+21,Monash University,bridges.monash.edu,34028175
+54,The University of Sheffield,orda.shef.ac.uk,31678657
+75,University of Salford,salford.figshare.com,33997446
+107,BathSPAdata,data.bathspa.ac.uk,33404716
+110,Zuyd University of Applied Sciences,zuyd.figshare.com,18528539
+113,The University of Adelaide,adelaide.figshare.com,33826978
+160,The Open University,ordo.open.ac.uk,34014492
+191,Middlesex University,mdx.figshare.com,33454753
+201,University of Amsterdam / Amsterdam University of Applied Sciences,uvaauas.figshare.com,34022163
+217,Fontys University of Applied Sciences,fontys.figshare.com,INVALID_no_article_published
+222,University of The Arctic,arctic.figshare.com,INVALID_no_article_published
+231,Carnegie Mellon University,kilthub.cmu.edu,34001007
+234,La Trobe,opal.latrobe.edu.au,33969586
+239,University of South-Eastern Norway,usn.figshare.com,30702092
+250,"St George's, University of London",sgul.figshare.com,31625953
+274,Murdoch Childrens Research Institute,mcri.figshare.com,33948199
+283,University of Cape Town,zivahub.uct.ac.za,33868342
+289,University of Sussex,sussex.figshare.com,34023807
+295,Janelia Research Campus,janelia.figshare.com,33965986
+298,University of Western Cape,kikapu.uwc.ac.za,33441574
+307,"Royal Holloway, University of London",royalholloway.figshare.com,32305794
+313,Cape Peninsula University of Technology,esango.cput.ac.za,33334410
+319,Iowa State University,iastate.figshare.com,33158366
+330,"City, University of London",city.figshare.com,33952036
+359,North-West University,dayta.nwu.ac.za,29528108
+364,The Royal Central School of Speech and Drama,rcssd.figshare.com,17259227
+376,Cary Institute,caryinstitute.figshare.com,33307866
+379,Technical University of Denmark,data.dtu.dk,33480058
+403,University of Leicester,figshare.le.ac.uk,33604486
+432,De Montfort University,figshare.dmu.ac.uk,32893505
+438,Torrens University Australia,torrens.figshare.com,31063363
+444,Midwestern University,midwestern.figshare.com,32882321
+462,Institute of Environmental Science and Research,research.esr.cri.nz,33092309
+480,Erasmus University Rotterdam (EUR),datarepository.eur.nl,29117747
+492,University of South Africa,unisa.figshare.com,30704765
+510,Lincoln University,data.lincoln.ac.nz,33011450
+543,Cardiff Metropolitan University,figshare.cardiffmet.ac.uk,34015221
+549,University College London,rdr.ucl.ac.uk,34021821
+561,Newcastle University,data.ncl.ac.uk,33985771
+615,Stellenbosch University,scholardata.sun.ac.za,33972418
+621,University of KwaZulu-Natal,yabelana.ukzn.ac.za,33465826
+627,IIEMSA,iiemsa.figshare.com,INVALID_no_article_published
+669,Northumbria University,figshare.northumbria.ac.uk,34018371
+681,University of Johannesburg,repository.uj.ac.za,33955147
+693,University of Illinois Chicago,indigo.uic.edu,33623125
+717,Edge Hill University,figshare.edgehill.ac.uk,33952303
+741,The Francis Crick Institute,crick.figshare.com,34022385
+747,Royal College of Surgeons in Ireland,repository.rcsi.com,33964123
+753,University of Pretoria,researchdata.up.ac.za,31316029
+779,York St John University,yorksj.figshare.com,34014540
+791,J-STAGE Data,jstagedata.jst.go.jp,33148829
+797,University of Arizona,arizona.figshare.com,32919056
+803,SciLifeLab,figshare.scilifelab.se,33936865
+821,Wesleyan University,figshare.wesleyan.edu,33431935
+827,RMIT University,research-repository.rmit.edu.au,34002075
+833,Walter Sisulu University,wsu.figshare.com,32648298
+839,Rhodes University,researchdata.ru.ac.za,32900561
+845,SMU Research Data Repository (RDR),researchdata.smu.edu.sg,33302109
+874,University of the Free State,ufs.figshare.com,31832905
+880,University of the Arts London,figshare.arts.ac.uk,31843903
+883,University of Fort Hare Pilot,ufh.figshare.com,31421411
+886,HKU Data Repository,datahub.hku.hk,33425743
+898,4TU.ResearchData,data.4tu.nl,14744040
+901,"National Heart, Lung, and Blood Institute",nhlbi.figshare.com,30657017
+918,University of Manchester,figshare.manchester.ac.uk,33986137
+921,University of Oxford,portal.sds.ox.ac.uk,26937448
+923,CQUniversity,acquire.cqu.edu.au,34028187
+935,Virginia Tech,data.lib.vt.edu,31930884
+950,Leeds Beckett University,figshare.leedsbeckett.ac.uk,29050553
+959,Macquarie University,figshare.mq.edu.au,32764689
+963,Toronto Metropolitan University,rshare.library.torontomu.ca,33177047
+966,Psychological Research Data & Tools Repository,ruspsydata.figshare.com,19107995
+969,Figshare+,plus.figshare.com,33274002
+984,King's College London,kcl.figshare.com,22153928
+985,Mangosuthu University of Technology (MUT),hungu-mut.figshare.com,31615804
+995,University of Limerick,researchrepository.ul.ie,28595939
+998,Cape Eleuthera Institute,cape-eleuthera-institute.figshare.com,32554662
+1004,Griffith University,griffith.figshare.com,32737518
+1005,Deakin University,dro.deakin.edu.au,28528787
+1009,Manara - Qatar Research Repository,manara.qnl.qa,32134234
+1014,Scotland's Rural College (SRUC),sruc.figshare.com,33614458
+1017,Middlebury,middlebury.figshare.com,33807646
+1020,Tshwane University of Technology,tutrod.figshare.com,25524010
+1026,American University of Bahrain,aubh.figshare.com,34004622
+1031,SUNY Upstate Medical University,upstate.figshare.com,32015028
+1034,American University,aura.american.edu,34027458
+1036,University of Tasmania,figshare.utas.edu.au,34018776
+1044,University of Rochester,rochester.figshare.com,34015365
+1047,University of Malta,drum.um.edu.mt,34013487
+1053,University of Canterbury Data Repository,figshare.canterbury.ac.nz,33411658
+1056,University of Notre Dame,curate.nd.edu,32953142
+1059,Ag Data Commons,agdatacommons.nal.usda.gov,33898762
+1065,LSU Health Shreveport,lsuhs.figshare.com,32915309
+1068,University of Lincoln,repository.lincoln.ac.uk,32973968
+1072,NOVA School of Business & Economics,novasbe.figshare.com,32555745
+1078,Chapman University,chapman.figshare.com,32561307
+1081,PRIME,nyulangone.figshare.com,33249303
+1104,Swinburne,figshare.swinburne.edu.au,34018860
+1107,The Institute of Development Studies and Partner Organisations,opendocs.ids.ac.uk,33854638
+1110,UL Research Institutes,ulri.figshare.com,32245263
+1113,University of Cincinnati,uc.figshare.com,33477508
+1114,Karolinska Institutet,openarchive.ki.se,34022145
+1117,Cardiff University,research-data.cardiff.ac.uk,34005588
+1123,BIMM,bimmuniversity.figshare.com,29269313
+1126,University of Newcastle,newcastle.figshare.com,34021368
+1138,Kintampo Health Research Centre,kintampo-hrc.figshare.com,32159643
+1141,University of Wollongong,ro.uow.edu.au,33991225
